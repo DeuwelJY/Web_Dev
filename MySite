@@ -1,0 +1,3 @@
+django-admin startproject ASite 
+open ("ASite","w")
+python manage.py startapp trialsite
